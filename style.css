@@ -636,6 +636,9 @@ margin: 1rem;
 
   .services{
 
+    display: flex;
+    flex-direction: column;
+
     justify-content: center;
     align-items: center;
   }
