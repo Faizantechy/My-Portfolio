@@ -621,4 +621,15 @@ margin: 1rem;
       color: #DF8908; /* Set the desired color */
       text-shadow: none; /* Optional: Remove any shadow for clarity */
   }
+
+  .home-img img{
+
+    width: 60vw;
+  }
+
+  .about-img img{
+    width: 60vw;
+
+
+  }
 }
