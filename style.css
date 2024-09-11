@@ -633,4 +633,10 @@ margin: 1rem;
 
 
   }
+
+  .services{
+
+    justify-content: center;
+    align-items: center;
+  }
 }
