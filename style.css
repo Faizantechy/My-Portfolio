@@ -634,12 +634,15 @@ margin: 1rem;
 
   }
 
-  .services{
-
-    display: flex;
-    flex-direction: column;
-
-    justify-content: center;
-    align-items: center;
+  .services-container {
+    padding: 0 2rem; /* Add padding to avoid touching the edges */
+    gap: 1rem; /* Reduce gap between items */
   }
+
+  .service-box {
+    width: 100%; /* Ensure the service box takes the full width */
+    height: auto; /* Allow height to adjust based on content */
+  }
+
+  
 }
