@@ -614,3 +614,11 @@ margin: 1rem;
 
 
 }
+
+@media (max-width: 600px) {
+  span {
+      background: none; /* Remove the gradient background on small devices */
+      color: #DF8908; /* Set the desired color */
+      text-shadow: none; /* Optional: Remove any shadow for clarity */
+  }
+}
