@@ -316,7 +316,6 @@ font-weight: 700;
   grid-template-columns: repeat(auto-fit, minmax(295px,1fr));
   align-items: center;
   gap: 2.5rem;
-  width: 100%;
 
 }
 
@@ -636,10 +635,7 @@ margin: 1rem;
   }
 
 
-  .services-container{
-
-    margin-inline:4rem;
-  }
+  
 
   
 }
